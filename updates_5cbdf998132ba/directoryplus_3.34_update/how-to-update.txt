@@ -1,0 +1,2 @@
+How to update:
+http://x-php.pro/docs/directoryplus/#how-to-update

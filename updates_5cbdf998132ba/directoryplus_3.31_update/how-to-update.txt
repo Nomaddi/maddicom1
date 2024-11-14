@@ -1,0 +1,15 @@
+How to update:
+
+Open the folder 'updates_[random_string]/directoryplus_3.31_update' and upload the contents to your server. This folder contains only the modified files. If you have modified the templates, please read the information on templates at http://x-php.pro/docs/directoryplus/#templates to understand how you can upgrade and keep your template modifications.
+
+If your current version is less than v.3.30, you first need to apply the previous update(s) in sequential order. For example, if you want to update from v.3.28 to v.3.31, you need to apply thedirectoryplus_3.29_update, then directoryplus_3.30_update and after that, directoryplus_3.31_update, in this order.
+
+Example video:
+http://x-php.pro/docs/how-to-update.mp4
+
+Alternatively, you can just upload all files to your server except the following files/folders
+
+- pictures/ folder
+- assets/ folder
+- inc/config.php file
+- inc/my.functions.php file
